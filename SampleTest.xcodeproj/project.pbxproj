@@ -13,6 +13,10 @@
 		FCCDFB401FE4E436009771D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB3F1FE4E436009771D4 /* Assets.xcassets */; };
 		FCCDFB431FE4E436009771D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB411FE4E436009771D4 /* LaunchScreen.storyboard */; };
 		FCCDFB4E1FE4E4EB009771D4 /* product_list.txt in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB4D1FE4E4E8009771D4 /* product_list.txt */; };
+		FCCDFB551FE4F02E009771D4 /* iphone6s.png in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB531FE4ED22009771D4 /* iphone6s.png */; };
+		FCCDFB561FE4F02E009771D4 /* iphone7.png in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB541FE4ED22009771D4 /* iphone7.png */; };
+		FCCDFB571FE4F02E009771D4 /* iphonese.png in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB511FE4ED22009771D4 /* iphonese.png */; };
+		FCCDFB581FE4F02E009771D4 /* iphonex.png in Resources */ = {isa = PBXBuildFile; fileRef = FCCDFB521FE4ED22009771D4 /* iphonex.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		FCCDFB421FE4E436009771D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FCCDFB441FE4E436009771D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FCCDFB4D1FE4E4E8009771D4 /* product_list.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = product_list.txt; sourceTree = "<group>"; };
+		FCCDFB511FE4ED22009771D4 /* iphonese.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphonese.png; sourceTree = "<group>"; };
+		FCCDFB521FE4ED22009771D4 /* iphonex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphonex.png; sourceTree = "<group>"; };
+		FCCDFB531FE4ED22009771D4 /* iphone6s.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone6s.png; sourceTree = "<group>"; };
+		FCCDFB541FE4ED22009771D4 /* iphone7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone7.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +64,7 @@
 		FCCDFB371FE4E436009771D4 /* SampleTest */ = {
 			isa = PBXGroup;
 			children = (
+				FCCDFB501FE4E696009771D4 /* Resources */,
 				FCCDFB4A1FE4E490009771D4 /* JSON Data */,
 				FCCDFB381FE4E436009771D4 /* AppDelegate.swift */,
 				FCCDFB3A1FE4E436009771D4 /* ViewController.swift */,
@@ -73,6 +82,17 @@
 				FCCDFB4D1FE4E4E8009771D4 /* product_list.txt */,
 			);
 			path = "JSON Data";
+			sourceTree = "<group>";
+		};
+		FCCDFB501FE4E696009771D4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FCCDFB531FE4ED22009771D4 /* iphone6s.png */,
+				FCCDFB541FE4ED22009771D4 /* iphone7.png */,
+				FCCDFB511FE4ED22009771D4 /* iphonese.png */,
+				FCCDFB521FE4ED22009771D4 /* iphonex.png */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,10 +154,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCCDFB551FE4F02E009771D4 /* iphone6s.png in Resources */,
+				FCCDFB581FE4F02E009771D4 /* iphonex.png in Resources */,
 				FCCDFB431FE4E436009771D4 /* LaunchScreen.storyboard in Resources */,
 				FCCDFB401FE4E436009771D4 /* Assets.xcassets in Resources */,
 				FCCDFB4E1FE4E4EB009771D4 /* product_list.txt in Resources */,
+				FCCDFB561FE4F02E009771D4 /* iphone7.png in Resources */,
 				FCCDFB3E1FE4E436009771D4 /* Main.storyboard in Resources */,
+				FCCDFB571FE4F02E009771D4 /* iphonese.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
