@@ -3,56 +3,55 @@
   Copyright © 2017 Rahul Nair. All rights reserved.
 */
 
-
 [
-{
-"created_at": "Thu Jun 22 21:00:00 +0000 2017",
-"id": 877994604561387500,
-"id_str": "877994604561387520",
-"text": "Sample Product detail",
-"truncated": false,
-"product": [
-{
-"id": 772682964,
-"id_str": "772682964",
-"name": "iphone x",
-"screen_name": "new iphone x",
-"price": 89000,
-"description": "get new iphone x at latest price",
-"url": "https://www.amazon.in/Apple-iPhone-X-Silver-256GB/dp/B0711T2L8K/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513400881&sr=1-1&keywords=iphone%2BX&th=1",
-
-},
-{
-"id": 772682965,
-"id_str": "772682965",
-"name": "iphone 6s",
-"screen_name": "new iphone 6s",
-"price": 32900,
-"description": "get new iphone x at latest price",
-"url": "https://www.amazon.in/Apple-iPhone-Space-Grey-32GB/dp/B01LX3A7CC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513400953&sr=1-1&keywords=iphone+6s",
-
-},
-{
-"id": 772682966,
-"id_str": "772682966",
-"name": "iphone 7",
-"screen_name": "new iphone 7 jet black",
-"price": 42900,
-"description": "get new iphone x at latest price",
-"url": "https://www.amazon.in/Apple-iPhone-Jet-Black-32GB/dp/B0764FLPKQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513401038&sr=1-1&keywords=iphone+7",
-
-},
-{
-"id": 772682967,
-"id_str": "772682967",
-"name": "iphone 6",
-"screen_name": "new iphone 6",
-"price": 18900,
-"description": "get new iphone x at latest price",
-"url": "https://www.amazon.in/Apple-iPhone-SE-Rose-Gold/dp/B06ZXWWD6R/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513401121&sr=1-1&keywords=iphone+se",
-
-}
-],
-
-}
+  {
+    "created_at": "Thu Jun 22 21:00:00 +0000 2017",
+    "id": 877994604561387500,
+    "id_str": "877994604561387520",
+    "text": "Sample Product detail",
+    "truncated": false,
+    "product": [
+      {
+        "id": 772682964,
+        "id_str": "772682964",
+        "name": "iphone x",
+        "screen_name": "new iphone x",
+        "price": 89000,
+        "description": "get new iphone x at latest price",
+        "url": "https://www.amazon.in/Apple-iPhone-X-Silver-256GB/dp/B0711T2L8K/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513400881&sr=1-1&keywords=iphone%2BX&th=1",
+        
+      },
+      {
+        "id": 772682965,
+        "id_str": "772682965",
+        "name": "iphone 6s",
+        "screen_name": "new iphone 6s",
+        "price": 32900,
+        "description": "get new iphone x at latest price",
+        "url": "https://www.amazon.in/Apple-iPhone-Space-Grey-32GB/dp/B01LX3A7CC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513400953&sr=1-1&keywords=iphone+6s",
+        
+      },
+      {
+        "id": 772682966,
+        "id_str": "772682966",
+        "name": "iphone 7",
+        "screen_name": "new iphone 7 Red",
+        "price": 42900,
+        "description": "get new iphone x at latest price",
+        "url": "https://www.amazon.in/Apple-iPhone-Jet-Black-32GB/dp/B0764FLPKQ/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513401038&sr=1-1&keywords=iphone+7",
+        
+      },
+      {
+        "id": 772682967,
+        "id_str": "772682967",
+        "name": "iphone se",
+        "screen_name": "se best iphone ever",
+        "price": 18900,
+        "description": "se best iphone ever",
+        "url": "https://www.amazon.in/Apple-iPhone-SE-Rose-Gold/dp/B06ZXWWD6R/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513401121&sr=1-1&keywords=iphone+se",
+        
+      }
+    ],
+    
+  }
 ]
